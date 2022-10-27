@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navBar {
+  background-color: lightblue;
+}
+
+div {
+  color: red;
+}
+
+.items {
+  background-color: lightcoral;
+  display: none;
+}
+
+.container {
+  height: 100px;
+  width: 100px;
+  margin-top: 25px;
+}
